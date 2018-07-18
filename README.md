@@ -1,2 +1,2 @@
 # exercism
-Python stuff I'm working on or worked on on the Exercism.io Python path
+Python stuff I'm working on or worked on at Exercism.io >> Python path
